@@ -8,4 +8,5 @@ public class Dragon {
     int attackPower;
     int defense;
     int mana;
+    int height;
 }
