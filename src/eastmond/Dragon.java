@@ -7,4 +7,5 @@ public class Dragon {
     int breath;
     int attackPower;
     int defense;
+    int mana;
 }
